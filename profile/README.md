@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://chubby-gf.com/aigirlfriendvideogenerator">
-  <img src="https://raw.githubusercontent.com/ai-girlfriend-video-generator/.github/main/ai-girlfriend-video-generator.jpg" alt="AI Girlfriend Video Generator - Unfiltered Visual Roleplay" width="100%" />
+  <img src="https://raw.githubusercontent.com/ai-girlfriend-video-generator/.github/main/aigirlfriendvideogenerator.jpg" alt="AI Girlfriend Video Generator - Unfiltered Visual Roleplay" width="100%" />
 </a>
 
 <h1>AI Girlfriend Video Generator</h1>
